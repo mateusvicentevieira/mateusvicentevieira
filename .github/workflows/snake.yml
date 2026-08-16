@@ -2,19 +2,17 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -24,7 +22,7 @@ jobs:
             dist/github-snake-dark.svg?color_snake=%2300BFFF&color_dots=%23020817,%23033366,%23006699,%2300A3CC,%2300BFFF
 
       - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
           target_branch: output
