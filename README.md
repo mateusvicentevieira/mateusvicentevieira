@@ -1,369 +1,535 @@
+````md
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                     SYSTEM PROFILE INITIALIZED                       ║
+║                                                                      ║
+║  Profile configuration:                                              ║
+║  GitHub Username → mateusvicentevieira                              ║
+║  LinkedIn        → https://linkedin.com/mateusvicente               ║
+║  Email           → mateusvicentevieira2711@gmail.com                ║
+║  PROJECT_URL     → repository URL when the project exists           ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=SYSTEM+INITIALIZATION...;LOADING+DEVELOPER+PROFILE...;ACCESS+GRANTED+%E2%9C%93" alt="System Initialization"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A3D91,100:00BFFF&height=220&section=header&text=MATEUS%20VICENTE%20GON%C3%87ALVES&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ENGINEERING%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=17" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Mateus+Vicente+Gon%C3%A7alves+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%9A%80;Future+Data+Engineer+%26+Software+Engineer;Building+ETL+Pipelines+with+Python+%26+SQL;Learning+AWS+%E2%98%81%EF%B8%8F;Always+Learning.+Always+Building." alt="Typing Animation"/>
-
-<br><br>
-
-<a href="https://github.com/mateusvicentevieira">
-<img src="https://img.shields.io/badge/GitHub-mateusvicentevieira-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0A3D91"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mateusvicente">
-<img src="https://img.shields.io/badge/LinkedIn-mateusvicente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mateusvicentevieira2711@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mateusvicentevieira&style=for-the-badge&color=0A3D91&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
----
-
-# `> SYSTEM.INFO`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=MATEUS%20VICENTE&fontSize=55&fontAlignY=38&desc=SYSTEM%20INITIALIZATION%20%7C%20ENGINEERING%20THE%20FUTURE&descAlignY=60&animation=fadeIn&color=0:020617,35:0f172a,70:0e7490,100:7c3aed&fontColor=ffffff" alt="Mateus Vicente — System Initialization"/>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    DEVELOPER PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│ NAME          : Mateus Vicente Gonçalves                     │
-│ STATUS        : ONLINE 🟢                                    │
-│ ROLE          : Software Engineering Student                 │
-│ LOCATION      : Criciúma / SC 🇧🇷                            │
-│ TARGET        : Data Engineer & Software Engineer             │
-│ FOCUS         : Data | Software | ETL | Databases            │
-│ AWS           : LEARNING / IN PROGRESS ☁️                    │
-│ MISSION       : Build. Learn. Solve. Evolve.                 │
-└──────────────────────────────────────────────────────────────┘
-```
+[ SYSTEM INITIALIZATION ]
 
----
+> USER IDENTIFIED
+> NAME: MATEUS VICENTE
+> ROLE: SOFTWARE ENGINEERING STUDENT
+> STATUS: LEARNING | BUILDING | EVOLVING
+> SYSTEM: ONLINE
+````
 
-# 🤖 `ABOUT_ME`
+# MATEUS VICENTE
 
-```python
-class MateusVicente:
+### `Engineering systems. Understanding data. Building solutions.`
 
-    def __init__(self):
-        self.name = "Mateus Vicente Gonçalves"
-        self.location = "Criciúma, SC - Brazil"
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Future+Software+Engineer;Data+Engineering+Enthusiast;SQL+%26+Database+Enthusiast;Backend+Development+Explorer;Building+ETL+Pipelines;Learning.+Building.+Evolving.;Turning+Data+into+Solutions;Designing+Systems+for+Real+Problems" alt="Typing animation"/>
 
-        self.current_role = "Software Engineering Student"
+<br/>
 
-        self.career_targets = [
-            "Data Engineer",
-            "Software Engineer"
-        ]
-
-        self.main_stack = [
-            "Python",
-            "SQL",
-            "PostgreSQL",
-            "Excel",
-            "Power BI"
-        ]
-
-        self.learning = [
-            "AWS",
-            "Data Engineering",
-            "Software Engineering",
-            "ETL",
-            "Backend Development"
-        ]
-
-    def mission(self):
-        return "Transform data and ideas into useful software solutions."
-```
-
-Sou estudante de **Engenharia de Software**, com foco no desenvolvimento de uma carreira voltada para **Engenharia de Dados e Engenharia de Software**.
-
-Atualmente venho desenvolvendo projetos práticos envolvendo **Python, SQL, PostgreSQL e processos ETL**, além de trabalhar com ferramentas de análise de dados como **Excel e Power BI**.
-
-Também estou iniciando minha jornada em **AWS**, ampliando meus conhecimentos sobre infraestrutura e serviços em nuvem.
-
-Meu objetivo é transformar conhecimento técnico em **soluções eficientes, escaláveis e orientadas a dados**.
-
-> `BUILD → LEARN → IMPROVE → REPEAT`
-
----
-
-# ⚡ `TECH_STACK`
-
-<div align="center">
-
-### 💻 Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
-
-<br><br>
-
-### 🗄️ Data & Databases
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-
-<br><br>
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws" />
-
-<br>
-
-<img src="https://img.shields.io/badge/AWS-IN%20PROGRESS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-
-<br><br>
-
-### 📊 Data Analytics
-
-<img src="https://skillicons.dev/icons?i=powerbi" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Data%20Querying-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white"/>
+![Profile Views](https://komarev.com/ghpvc/?username=mateusvicentevieira\&label=PROFILE+VIEWS\&color=0891b2\&style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Profile-111827?style=flat\&logo=github\&logoColor=white)](https://github.com/mateusvicentevieira)
 
 </div>
 
 ---
 
-# 🧰 `TOOLS_&_ENVIRONMENT`
-
-<div align="center">
-
-| Área                    | Tecnologias                        |
-| ----------------------- | ---------------------------------- |
-| 🐍 **Programming**      | Python                             |
-| 🗄️ **Databases**       | SQL · PostgreSQL                   |
-| ⚙️ **Data Engineering** | ETL · CSV · JSON · Data Validation |
-| 📊 **Analytics**        | Excel · Power BI                   |
-| ☁️ **Cloud**            | AWS *(in progress)*                |
-| 💻 **Development**      | VS Code · Git · GitHub             |
-
-</div>
-
----
-
-# 🚀 `FEATURED_PROJECTS`
-
-<div align="center">
-
-<a href="https://github.com/mateusvicentevieira/ETL">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mateusvicentevieira&repo=ETL&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8" />
-</a>
-
-</div>
-
-<br>
-
-### ⚙️ `01 — ETL DATA PIPELINE`
-
-Projeto desenvolvido para praticar um fluxo completo de **Extração, Transformação e Carga de dados** utilizando Python.
+## `┌──[ ABOUT_ME ]`
 
 ```text
-                   ┌───────────────┐
-                   │     CSV       │
-                   │    INPUT      │
-                   └───────┬───────┘
-                           │
-                           ▼
-                   ┌───────────────┐
-                   │   EXTRACT     │
-                   │    Python     │
-                   └───────┬───────┘
-                           │
-                           ▼
-                   ┌───────────────┐
-                   │   VALIDATE    │
-                   │ Data Quality  │
-                   └───────┬───────┘
-                           │
-                ┌──────────┴──────────┐
-                ▼                     ▼
-        ┌───────────────┐     ┌───────────────┐
-        │ VALID DATA    │     │ INVALID DATA  │
-        └───────┬───────┘     └───────┬───────┘
-                │                     │
-                ▼                     ▼
-        ┌───────────────┐     ┌───────────────┐
-        │   PROCESS     │     │ ERROR / LOG   │
-        └───────┬───────┘     └───────────────┘
-                │
-                ▼
-        ┌───────────────┐
-        │     JSON      │
-        │     / CSV     │
-        └───────────────┘
+mateus@github:~$ whoami
+
+Software Engineering student focused on understanding how systems,
+data and architecture connect to solve real problems.
 ```
 
-**Stack utilizada:**
+Atualmente, estou construindo minha base em **Engenharia de Software** enquanto aprofundo meus conhecimentos em **dados, bancos de dados, Python, SQL e desenvolvimento de sistemas**.
 
-`Python` · `CSV` · `JSON` · `ETL` · `Data Validation`
+Meu interesse não está apenas em aprender ferramentas isoladas. Gosto de entender o que acontece **por trás das interfaces**: como os dados são estruturados, como os sistemas se comunicam, como uma arquitetura é organizada e como decisões técnicas impactam eficiência, escalabilidade e manutenção.
+
+Tenho uma abordagem analítica e estratégica para aprender: **entender os fundamentos, testar na prática, identificar problemas e evoluir a solução**.
+
+> **Minha carreira está em construção, mas a direção é clara: desenvolver uma base sólida em engenharia e transformar conhecimento técnico em soluções reais.**
+
+<br/>
+
+```text
+PROFILE_ATTRIBUTES
+────────────────────────────────────────────
+[01] Analytical Thinking
+[02] Engineering Mindset
+[03] Strategic Problem Solving
+[04] Continuous Learning
+[05] Structured Information
+[06] Practical Building
+```
 
 ---
 
-# 🎯 `CURRENT_OBJECTIVES`
+## `> CURRENT_MISSION`
 
 ```bash
-mateus@github:~$ cat objectives.txt
-
-[✓] Start Software Engineering journey
-[✓] Develop Python fundamentals
-[✓] Improve SQL skills
-[✓] Learn PostgreSQL
-[✓] Build my first ETL pipeline
-[✓] Practice data validation
-[✓] Explore Power BI and Excel
-
-[>] Deepen Data Engineering knowledge
-[>] Study AWS
-[>] Build more ETL projects
-[>] Improve backend development
-[>] Study software architecture
-[>] Build a stronger GitHub portfolio
-[>] Prepare for my first professional opportunity
-
-mateus@github:~$ _
+mateus@github:~$ current_mission
 ```
 
----
-
-# 📊 `GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusvicentevieira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvicentevieira&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=FFFFFF"/>
-
-</div>
-
-<br>
+```text
+[✓] Building strong Software Engineering fundamentals
+[✓] Developing projects with Python
+[✓] Improving SQL and Database knowledge
+[✓] Studying Data Modeling and System Architecture
+[>] Exploring Data Engineering
+[>] Building projects for my portfolio
+[>] Evolving in Backend Development
+[>] Understanding scalable systems
+[>] Preparing for my first professional opportunity in Technology
+```
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusvicentevieira&theme=tokyonight&hide_border=true&background=020617&ring=00BFFF&fire=00BFFF&currStreakLabel=38BDF8"/>
-
-</div>
-
----
-
-# 📈 `ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusvicentevieira&bg_color=020617&color=FFFFFF&line=00BFFF&point=FFFFFF&area=true&area_color=0A3D91&hide_border=true" width="100%"/>
+`STATUS:` **ACTIVE DEVELOPMENT**
 
 </div>
 
 ---
 
-# 🏆 `GITHUB_TROPHIES`
+# `TECH_UNIVERSE.exe`
+
+> A technology map of what I am currently building with, studying and exploring.
+> **The goal is transparency: learning technologies are presented as learning technologies.**
+
+### `● CURRENTLY BUILDING WITH`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode&theme=dark" />
+
+</p>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mateusvicentevieira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+![Python](https://img.shields.io/badge/Python-Building%20With-111827?style=flat\&logo=python\&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-Core%20Knowledge-111827?style=flat\&logo=postgresql\&logoColor=4169E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-111827?style=flat\&logo=postgresql\&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-Version%20Control-111827?style=flat\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20%26%20Collaboration-111827?style=flat\&logo=github\&logoColor=white)
+
+</div>
+
+### `● DATA & DATABASES`
+
+<p align="center">
+
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Architecture-0f172a?style=flat\&logo=databricks\&logoColor=22D3EE)
+![ETL](https://img.shields.io/badge/ETL-Data%20Pipelines-0f172a?style=flat\&logo=apacheairflow\&logoColor=22D3EE)
+![CSV](https://img.shields.io/badge/CSV-Structured%20Data-0f172a?style=flat\&logo=files\&logoColor=22C55E)
+![JSON](https://img.shields.io/badge/JSON-Data%20Exchange-0f172a?style=flat\&logo=json\&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-0f172a?style=flat\&logo=postgresql\&logoColor=4169E1)
+
+</p>
+
+### `● SOFTWARE_ENGINEERING_JOURNEY`
+
+<p align="center">
+
+![OOP](https://img.shields.io/badge/OOP-Programming%20Concepts-111827?style=flat\&logo=python\&logoColor=3776AB)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Learning-111827?style=flat\&logo=stackshare\&logoColor=22D3EE)
+![APIs](https://img.shields.io/badge/APIs-Exploring-111827?style=flat\&logo=fastapi\&logoColor=009688)
+![Backend](https://img.shields.io/badge/Backend-Development%20Journey-111827?style=flat\&logo=serverless\&logoColor=22D3EE)
+![Architecture](https://img.shields.io/badge/System%20Architecture-Foundations-111827?style=flat\&logo=diagramsdotnet\&logoColor=8B5CF6)
+
+</p>
+
+### `● CURRENTLY LEARNING & EXPLORING`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+
+</p>
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-Exploring-111827?style=flat\&logo=docker\&logoColor=2496ED)
+![Cloud](https://img.shields.io/badge/Cloud-Exploring-111827?style=flat\&logo=icloud\&logoColor=22D3EE)
+![DevOps](https://img.shields.io/badge/DevOps-Learning%20Path-111827?style=flat\&logo=devbox\&logoColor=8B5CF6)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Exploring-111827?style=flat\&logo=apacheairflow\&logoColor=017CEE)
+![Pandas](https://img.shields.io/badge/Pandas-Learning-111827?style=flat\&logo=pandas\&logoColor=150458)
+![Power BI](https://img.shields.io/badge/Power%20BI-Exploring-111827?style=flat\&logo=powerbi\&logoColor=F2C811)
 
 </div>
 
 ---
 
-# 🐍 `CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mateusvicentevieira/mateusvicentevieira/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mateusvicentevieira/mateusvicentevieira/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/mateusvicentevieira/mateusvicentevieira/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-
-</picture>
-
-</div>
-
----
-
-# 🧠 `JARVIS.STATUS`
+# `DATA_FLOW.pipeline`
 
 <div align="center">
 
 ```text
-╔════════════════════════════════════════════════════╗
-║                 JARVIS STATUS PANEL                ║
-╠════════════════════════════════════════════════════╣
-║                                                    ║
-║  LEARNING            ████████████████████  100%    ║
-║  PYTHON              ████████████████░░░░   80%    ║
-║  SQL                 ██████████████████░░   90%    ║
-║  DATA ENGINEERING    ████████████░░░░░░░   60%    ║
-║  AWS                 ██████░░░░░░░░░░░░░░   30%    ║
-║  SOFTWARE ENGINEERING███████████░░░░░░░░   55%    ║
-║                                                    ║
-║  STATUS: EVOLVING... 🚀                            ║
-╚════════════════════════════════════════════════════╝
+                    DATA SOURCE
+                         │
+                         ▼
+              ┌────────────────────┐
+              │      EXTRACT       │
+              │     CSV / JSON     │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │      VALIDATE      │
+              │   TYPES & RULES    │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │     TRANSFORM      │
+              │ CLEAN & STRUCTURE  │
+              └─────────┬──────────┘
+                        │
+                        ▼
+              ┌────────────────────┐
+              │        LOAD        │
+              │      DATABASE      │
+              └─────────┬──────────┘
+                        │
+                        ▼
+                   INFORMATION
 ```
 
-</div>
-
----
-
-# 🌐 `CONNECT_WITH_ME`
-
-<div align="center">
-
-<a href="https://github.com/mateusvicentevieira">
-<img src="https://img.shields.io/badge/GitHub-mateusvicentevieira-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mateusvicente">
-<img src="https://img.shields.io/badge/LinkedIn-mateusvicente-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mateusvicentevieira2711@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mateusvicentevieira2711-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### `CSV → Python → Validation → Transformation → PostgreSQL`
 
 </div>
 
+> **My interest in Data Engineering begins with a simple question:**
+> *How can raw information become structured, reliable and useful data?*
+
 ---
 
-<div align="center">
+# `> PROJECT_LAB`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0A3D91,100:00BFFF&height=140&section=footer"/>
+> Projects represent the practical side of my learning. Repositories should replace the placeholders as they become publicly available.
 
-### `> CONNECTION TERMINATED...`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 — ETL PIPELINE`
+
+**STATUS:** `BUILDING`
+
+A data engineering project focused on creating an ETL process capable of extracting, validating and transforming structured data.
+
+**Pipeline:**
+
+`CSV → Extract → Validate → Transform → JSON / Database`
+
+**Technologies**
+
+`Python` `CSV` `JSON` `Data Validation` `ETL`
+
+<!-- Replace PROJECT_URL with the repository URL when available -->
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-PROJECT__URL-0891B2?style=flat\&logo=github\&logoColor=white)](PROJECT_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### `02 — DATABASE MODELING`
+
+**STATUS:** `ACTIVE / LEARNING`
+
+A project space dedicated to modeling information, relationships, normalization and database structure.
+
+**Focus:**
+
+* Entities and relationships
+* Data normalization
+* Database design
+* PostgreSQL
+* Information architecture
+
+**Technologies**
+
+`SQL` `PostgreSQL` `Data Modeling`
+
+<!-- Replace PROJECT_URL with the repository URL when available -->
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-PROJECT__URL-0891B2?style=flat\&logo=github\&logoColor=white)](PROJECT_URL)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03 — BACKEND SYSTEM`
+
+**STATUS:** `PLANNED`
+
+A future project focused on backend development and the connection between application logic, APIs and databases.
+
+**Planned concepts:**
+
+* APIs
+* Business rules
+* Data persistence
+* Backend architecture
+* System integration
+
+**Technologies**
+
+`Python` `APIs` `SQL` `Databases`
+
+<!-- Replace PROJECT_URL with the repository URL when available -->
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-PROJECT__URL-0891B2?style=flat\&logo=github\&logoColor=white)](PROJECT_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### `04 — NEXT SYSTEM`
+
+**STATUS:** `INITIALIZING...`
 
 ```text
-SYSTEM STATUS : ONLINE
-LOCATION      : CRICIÚMA / SC
-NEXT MISSION  : BUILD SOMETHING AWESOME.
+PROJECT_SLOT_AVAILABLE
+
+> Problem: [ TO BE DEFINED ]
+> Architecture: [ DESIGNING ]
+> Stack: [ SELECTING ]
+> Status: [ WAITING FOR BUILD ]
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile.;Feel+free+to+explore+my+repositories.;See+you+in+the+next+commit...+%E2%9A%A1"/>
+<!-- Replace PROJECT_URL with the repository URL when available -->
 
-<br>
+[![Repository](https://img.shields.io/badge/REPOSITORY-PROJECT__URL-0891B2?style=flat\&logo=github\&logoColor=white)](PROJECT_URL)
 
-**`© 2026 Mateus Vicente Gonçalves | Engineering the future, one commit at a time.`**
+</td>
+</tr>
+</table>
+
+---
+
+# `GITHUB_INTELLIGENCE_DASHBOARD`
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mateusvicentevieira&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvicentevieira&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mateusvicentevieira&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusvicentevieira&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=8b5cf6&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 
 </div>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mateusvicentevieira&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# `> CONTRIBUTION_PROTOCOL`
+
+<div align="center">
+
+```text
+CONTRIBUTION SYSTEM: TRACKING EVOLUTION
+
+Every commit represents practice.
+Every project represents experience.
+Every contribution is another step in the system evolution.
+```
+
+<!--
+SNAKE CONTRIBUTION ANIMATION
+
+1. Create this workflow file:
+   .github/workflows/snake.yml
+
+2. Use the workflow example below.
+
+3. After the Action runs, the generated SVG can be displayed here.
+-->
+
+<img src="https://raw.githubusercontent.com/mateusvicentevieira/mateusvicentevieira/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+### GitHub Actions configuration
+
+Create the file:
+
+```text
+.github/workflows/snake.yml
+```
+
+Then use:
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mateusvicentevieira
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+# `> SYSTEM_PHILOSOPHY`
+
+<div align="center">
+
+## **Build the fundamentals. Understand the architecture. Solve the problem.**
+
+```text
+I don't want to collect technologies.
+
+I want to understand systems:
+how they are structured,
+how data moves,
+where problems emerge,
+and how better solutions can be designed.
+```
+
+</div>
+
+---
+
+# `CAREER_PATH.exe`
+
+<div align="center">
+
+```text
+                         ┌── Software Engineering
+                         │
+                         ├── Data Engineering
+                         │
+CURRENT FOUNDATION ──────┼── Backend Development
+                         │
+                         ├── Cloud & Systems
+                         │
+                         └── Data Architecture
+```
+
+</div>
+
+My foundation is **Software Engineering**. From that base, I explore adjacent areas where systems, data, architecture and infrastructure intersect.
+
+The objective is not to appear indecisive by listing multiple paths. It is to build enough technical understanding to discover where my strengths, interests and practical experience can generate the greatest impact.
+
+---
+
+# `LEARNING_PROTOCOL`
+
+```text
+01. UNDERSTAND THE FUNDAMENTALS
+          │
+          ▼
+02. BUILD SOMETHING
+          │
+          ▼
+03. TEST THE LIMITS
+          │
+          ▼
+04. BREAK IT
+          │
+          ▼
+05. DEBUG IT
+          │
+          ▼
+06. IMPROVE THE DESIGN
+          │
+          ▼
+07. DOCUMENT THE LEARNING
+          │
+          ▼
+08. REPEAT
+```
+
+> **Learning is not only consuming information. It is turning understanding into something that can be tested, improved and rebuilt.**
+
+---
+
+# `CONNECT.sys`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/mateusvicente)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mateusvicentevieira-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mateusvicentevieira)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mateusvicentevieira2711@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,50:8b5cf6,100:22d3ee"/>
+
+```text
+SYSTEM STATUS: ONLINE
+
+CURRENTLY:
+LEARNING ██████████
+BUILDING ███████░░░
+EVOLVING █████████░
+```
+
+### `From curiosity to knowledge. From knowledge to systems. From systems to impact.`
+
+<br/>
+
+**© Mateus Vicente — Building the next version.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,40:0e7490,75:7c3aed,100:020617"/>
+
+</div>
+
+<!--
+SOURCE-BASED PROFILE NOTE:
+This README reflects the identity, interests, technologies, visual direction,
+project placeholders and professional positioning requested for Mateus Vicente,
+including Software Engineering, Data Engineering, SQL, databases, Python,
+ETL, backend, cloud and systems exploration.
+-->
+
+```
+```
