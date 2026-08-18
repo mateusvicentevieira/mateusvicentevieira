@@ -136,7 +136,7 @@ Meu objetivo é transformar conhecimento técnico em **soluções eficientes, es
 
 ---
 
-# 🧰 `TOOLS_&_ENVIRONMENT`
+#  `TOOLS_&_ENVIRONMENT`
 
 <div align="center">
 
