@@ -49,7 +49,7 @@
 
 ---
 
-# 🤖 `ABOUT_ME`
+#  `ABOUT_ME`
 
 ```python
 class MateusVicente:
@@ -97,7 +97,7 @@ Meu objetivo é transformar conhecimento técnico em **soluções eficientes, es
 
 ---
 
-# ⚡ `TECH_STACK`
+#  `TECH_STACK`
 
 <div align="center">
 
@@ -153,7 +153,7 @@ Meu objetivo é transformar conhecimento técnico em **soluções eficientes, es
 
 ---
 
-# 🚀 `FEATURED_PROJECTS`
+#  `FEATURED_PROJECTS`
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Meu objetivo é transformar conhecimento técnico em **soluções eficientes, es
 
 <br>
 
-### ⚙️ `01 — ETL DATA PIPELINE`
+###  `01 — ETL DATA PIPELINE`
 
 Projeto desenvolvido para praticar um fluxo completo de **Extração, Transformação e Carga de dados** utilizando Python.
 
@@ -211,7 +211,7 @@ Projeto desenvolvido para praticar um fluxo completo de **Extração, Transforma
 
 ---
 
-# 🎯 `CURRENT_OBJECTIVES`
+#  `CURRENT_OBJECTIVES`
 
 ```bash
 mateus@github:~$ cat objectives.txt
@@ -237,7 +237,7 @@ mateus@github:~$ _
 
 ---
 
-# 📊 `GITHUB_ANALYTICS`
+#  `GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -257,21 +257,11 @@ mateus@github:~$ _
 
 ---
 
-# 📈 `ACTIVITY_GRAPH`
+#  `ACTIVITY_GRAPH`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusvicentevieira&bg_color=020617&color=FFFFFF&line=00BFFF&point=FFFFFF&area=true&area_color=0A3D91&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 `GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mateusvicentevieira&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -304,7 +294,7 @@ mateus@github:~$ _
 
 ---
 
-# 🧠 `JARVIS.STATUS`
+#  `JARVIS.STATUS`
 
 <div align="center">
 
@@ -328,7 +318,7 @@ mateus@github:~$ _
 
 ---
 
-# 🌐 `CONNECT_WITH_ME`
+#  `CONNECT_WITH_ME`
 
 <div align="center">
 
