@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=180&section=header&text=Mateus%20Vicente&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Dados%20%7C%20BI%20%7C%20Analytics&descAlignY=58&descSize=18">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:42A5F5&height=180&section=header&text=Mateus%20Vicente&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Engenharia%20de%20Dados%20%7C%20BI%20%7C%20Analytics&descAlignY=58&descSize=18">
 
 <br>
 
