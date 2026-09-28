@@ -9,11 +9,11 @@
 
 <br>
 
-<a href="mateusvicente">
+<a href="https://linkedin.com/in/mateusvicente">
 <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mateusvicentevieira">
+<a href="https://github.com/mateusvicentevieira">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -56,11 +56,11 @@
 
 <div align="center">
 
-<a href="mateusvicente">
+<a href="https://linkedin.com/in/mateusvicente">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-1565C0?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mateusvicentevieira">
+<a href="https://github.com/mateusvicentevieira">
 <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -164,14 +164,14 @@ Informação
 
 <div align="center">
 
-| Formação                                       | Instituição |     Carga     |
-| :--------------------------------------------- | :---------: | :-----------: |
-| **Big Data & Analytics**                       |     FIAP    |     `60h`     |
-| **Business Intelligence**                      |     FIAP    |     `40h`     |
-| **Excel Avançado**                             |    Eduliv   |     `80h`     |
+|                    Formação                    | Instituição |     Carga     |
+| :--------------------------------------------: | :---------: | :-----------: |
+|            **Big Data & Analytics**            |     FIAP    |     `60h`     |
+|            **Business Intelligence**           |     FIAP    |     `40h`     |
+|               **Excel Avançado**               |    Eduliv   |     `80h`     |
 | **Oratória, Retórica e Comunicação Assertiva** |     ENAP    |     `50h`     |
-| **Assistente Administrativo**                  |     IFRS    |     `200h`    |
-| **Engenharia de Software**                     |   UniSATC   | `2026 → 2030` |
+|          **Assistente Administrativo**         |     IFRS    |     `200h`    |
+|           **Engenharia de Software**           |   UniSATC   | `2026 → 2030` |
 
 </div>
 
@@ -241,25 +241,68 @@ Informação
 
 <div align="center">
 
-```text
-DATA ANALYTICS
-████████████████████░░  Análise de Dados
+<table>
+<tr>
+<td align="center">
 
-BUSINESS INTELLIGENCE
-███████████████████░░░  Dashboards & Indicadores
+<b>DATA ANALYTICS</b><br>
+████████████████████░░<br>
+Análise de Dados
 
-DATABASE
-██████████████████░░░░  SQL & Banco de Dados
+</td>
+</tr>
 
-DATA VISUALIZATION
-██████████████████░░░░  Power BI & Excel
+<tr>
+<td align="center">
 
-PROGRAMMING
-███████████████░░░░░░░  Python
+<b>BUSINESS INTELLIGENCE</b><br>
+███████████████████░░░<br>
+Dashboards & Indicadores
 
-BIG DATA
-██████████████░░░░░░░░  Big Data & Analytics
-```
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>DATABASE</b><br>
+██████████████████░░░░<br>
+SQL & Banco de Dados
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>DATA VISUALIZATION</b><br>
+██████████████████░░░░<br>
+Power BI & Excel
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>PROGRAMMING</b><br>
+███████████████░░░░░░░<br>
+Python
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<b>BIG DATA</b><br>
+██████████████░░░░░░░░<br>
+Big Data & Analytics
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -287,7 +330,9 @@ Análise orientada por dados para apoiar a escolha da cidade de uma nova filial 
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Analytics-1565C0?style=for-the-badge">
+
 <br>
+
 <img src="https://img.shields.io/badge/BI-1976D2?style=for-the-badge">
 <img src="https://img.shields.io/badge/APIs-42A5F5?style=for-the-badge">
 
@@ -304,7 +349,7 @@ Análise orientada por dados para apoiar a escolha da cidade de uma nova filial 
 
 <div align="center">
 
-<a href="[LINK_REPOSITORIO_LOCALIZACAO]">
+<a href="https://github.com/mateusvicentevieira/[REPOSITORIO_LOCALIZACAO]">
 <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-1565C0?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -328,7 +373,9 @@ Dashboard desenvolvido para transformar registros de vendas em informações vis
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Dashboards-1565C0?style=for-the-badge">
+
 <br>
+
 <img src="https://img.shields.io/badge/Data%20Analytics-1976D2?style=for-the-badge">
 
 </div>
@@ -344,7 +391,7 @@ Dashboard desenvolvido para transformar registros de vendas em informações vis
 
 <div align="center">
 
-<a href="[LINK_REPOSITORIO_DASHBOARD]">
+<a href="https://github.com/mateusvicentevieira/[REPOSITORIO_DASHBOARD]">
 <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-1565C0?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -357,7 +404,6 @@ Dashboard desenvolvido para transformar registros de vendas em informações vis
 </table>
 
 ---
-
 
 <div align="center">
 
